@@ -1,5 +1,4 @@
 # Emotion-Detection
-# Emotion-Detection
 # Real-time Emotion Detection using OpenCV and DeepFace
 
 This project captures video from a webcam, detects faces in real-time using OpenCV, and analyzes the emotions of detected faces using DeepFace. The dominant emotion and its corresponding percentage are displayed on the video feed.
